@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! REDHAT testing. :) version is " . PHP_VERSION . "\n";
+print "Hello, World! trigger test version is " . PHP_VERSION . "\n";
 ?>
