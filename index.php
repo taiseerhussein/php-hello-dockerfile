@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! This is a direct commit to main" . PHP_VERSION . "\n";
+print "Hello, World! Hello schools first!" . PHP_VERSION . "\n";
 ?>
