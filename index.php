@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! This is a test test version is" . PHP_VERSION . "\n";
+print "Hello, World! Hello Schools first!! Welcome to our gitops presentation.  " . PHP_VERSION . "\n";
 ?>
